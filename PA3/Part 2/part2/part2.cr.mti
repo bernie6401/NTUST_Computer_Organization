@@ -1,0 +1,114 @@
+{D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/IM.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/IM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/5_bits_mux_RF.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/5_bits_mux_RF.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module mux5_bits_RF
+
+Top level modules:
+	mux5_bits_RF
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/MEM_WB.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/MEM_WB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/32_bits_mux_ALU.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/32_bits_mux_ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module mux32_bits_ALU
+
+Top level modules:
+	mux32_bits_ALU
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/Adder.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/DM.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/DM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/ALU_Control.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/ALU_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module ALU_Control
+
+Top level modules:
+	ALU_Control
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/EX_MEM.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/EX_MEM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/I_PipelineCPU.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/I_PipelineCPU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module I_PipelineCPU
+
+Top level modules:
+	I_PipelineCPU
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/32_bits_mux_DM.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/32_bits_mux_DM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module mux32_bits_DM
+
+Top level modules:
+	mux32_bits_DM
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/RF.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/RF.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/Control.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/ID_EX.v} {2 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/ID_EX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module ID_EX
+** Warning: D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/ID_EX.v(29): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	ID_EX
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/ALU.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/tb_I_PipelineCPU.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/tb_I_PipelineCPU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module tb_I_PipelineCPU
+
+Top level modules:
+	tb_I_PipelineCPU
+
+} {} {}} {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/IF_ID.v} {1 {vlog -work work -stats=none {D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/IF_ID.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}}

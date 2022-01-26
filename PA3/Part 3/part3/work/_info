@@ -1,0 +1,515 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 2/part2
+vAdder
+Z0 !s110 1623602913
+!i10b 1
+!s100 lkBcU?dR;V75Y?iD2Ji9P2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=NOH;ggX9zkX>n9N5kB=j3
+Z2 dD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/part3
+w1620834740
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/Adder.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/Adder.v
+!i122 743
+L0 1 9
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1623602913.000000
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/Adder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@adder
+vALU
+R0
+!i10b 1
+!s100 gAc<P]Q]2?I9kAAdLklnZ1
+R1
+Ij3WhH;90@_XYkI3Pd4GYJ2
+R2
+w1622026668
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ALU.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ALU.v
+!i122 744
+L0 7 36
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vALU_Control
+R0
+!i10b 1
+!s100 9n0cCA7Dog;]_@UKQj_A00
+R1
+I6b?N<Q[1MLaK`UJX4AUnn3
+R2
+w1623323071
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ALU_Control.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ALU_Control.v
+!i122 745
+L0 11 28
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ALU_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ALU_Control.v|
+!i113 1
+R6
+R7
+n@a@l@u_@control
+vControl
+Z8 !s110 1623602914
+!i10b 1
+!s100 S^]kN@z3IQBbbjUb<Fe9P1
+R1
+In@SH^IeBMof=l2XE;dVCF2
+R2
+w1623323004
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/Control.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/Control.v
+!i122 746
+L0 7 80
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1623602914.000000
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/Control.v|
+!i113 1
+R6
+R7
+n@control
+vDM
+R8
+!i10b 1
+!s100 =RH=Z7^FzJiT]WI6`P==30
+R1
+IALU=WZWoUDlP=8zO:PN;F2
+R2
+w1623344160
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/DM.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/DM.v
+!i122 747
+L0 35 43
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/DM.v|
+!i113 1
+R6
+R7
+n@d@m
+vEX_MEM
+R8
+!i10b 1
+!s100 :zkO@EKh9czjC@kYl`3CQ0
+R1
+IRb5KUEd`F7i3XKoCb3Mj42
+R2
+w1623521841
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/EX_MEM.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/EX_MEM.v
+!i122 748
+L0 1 24
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/EX_MEM.v|
+!i113 1
+R6
+R7
+n@e@x_@m@e@m
+vFinalCPU
+Z10 !s110 1623602911
+!i10b 1
+!s100 ^<g<gMHMYk5Mez[0Oz<n:1
+R1
+I4FY_EiO>YAVRG_FCaVHi;0
+R2
+w1623572499
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/FinalCPU.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/FinalCPU.v
+!i122 736
+L0 29 295
+R3
+R4
+r1
+!s85 0
+31
+Z11 !s108 1623602911.000000
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/FinalCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/FinalCPU.v|
+!i113 1
+R6
+R7
+n@final@c@p@u
+vForwardUnit
+R8
+!i10b 1
+!s100 ^mi7K07WSMKB8od7cUTXa0
+R1
+IUibVXY5ZJD0j[`<^2C[F<2
+R2
+w1623529195
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ForwardUnit.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ForwardUnit.v
+!i122 749
+Z12 L0 1 25
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ForwardUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ForwardUnit.v|
+!i113 1
+R6
+R7
+n@forward@unit
+vHazardDetection
+Z13 !s110 1623602915
+!i10b 1
+!s100 ;F[>JG5OPjNK44iN0Q4:G0
+R1
+ImM_MU@GYo`oKP>o7i1bF10
+R2
+w1623572074
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/HazardDetection.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/HazardDetection.v
+!i122 750
+R12
+R3
+R4
+r1
+!s85 0
+31
+Z14 !s108 1623602915.000000
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/HazardDetection.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/HazardDetection.v|
+!i113 1
+R6
+R7
+n@hazard@detection
+vID_EX
+R13
+!i10b 1
+!s100 eM1n=gYD`CHIJQ5gR^7X80
+R1
+IV2^WVMiCZ<M2=iLlMGf=K1
+R2
+w1623526471
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ID_EX.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ID_EX.v
+!i122 751
+Z15 L0 1 34
+R3
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/ID_EX.v|
+!i113 1
+R6
+R7
+n@i@d_@e@x
+vIF_ID
+R13
+!i10b 1
+!s100 jm0m6lIi5W@^IE9C_o<E_0
+R1
+IhLgUMT6mnMWzQaFBI^Gk60
+R2
+w1623585707
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/IF_ID.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/IF_ID.v
+!i122 752
+L0 1 19
+R3
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/IF_ID.v|
+!i113 1
+R6
+R7
+n@i@f_@i@d
+vIM
+R10
+!i10b 1
+!s100 K3JZM88X6Wz51>1=2oX290
+R1
+IG7mZQIV_9_2h]>Z6mK_1z2
+R2
+w1623521732
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/IM.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/IM.v
+!i122 737
+L0 35 20
+R3
+R4
+r1
+!s85 0
+31
+R11
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/IM.v|
+!i113 1
+R6
+R7
+n@i@m
+vMEM_WB
+R13
+!i10b 1
+!s100 _baj<>c@:O<T1XVB:S6nA1
+R1
+IzzoWZ^=bEjMAURYhgR?[Y0
+R2
+w1623521826
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/MEM_WB.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/MEM_WB.v
+!i122 753
+L0 1 22
+R3
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/MEM_WB.v|
+!i113 1
+R6
+R7
+n@m@e@m_@w@b
+vmux32_bits_ALU
+Z16 !s110 1623602912
+!i10b 1
+!s100 I?E75>Z5klVCX1=W2LmPb1
+R1
+IfUIoe>Tb]kKE?0>CM=W8T2
+R2
+w1623525530
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/32_bits_mux_ALU.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/32_bits_mux_ALU.v
+!i122 741
+Z17 L0 1 16
+R3
+R4
+r1
+!s85 0
+31
+Z18 !s108 1623602912.000000
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/32_bits_mux_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/32_bits_mux_ALU.v|
+!i113 1
+R6
+R7
+nmux32_bits_@a@l@u
+vmux32_bits_DM
+R16
+!i10b 1
+!s100 hckOA8oCA0z@7Eb8WOje10
+R1
+I<djPLk]>KCjNc;5??i?ZS1
+R2
+w1620936329
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/32_bits_mux_DM.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/32_bits_mux_DM.v
+!i122 742
+R17
+R3
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/32_bits_mux_DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/32_bits_mux_DM.v|
+!i113 1
+R6
+R7
+nmux32_bits_@d@m
+vmux5_bits_RF
+R16
+!i10b 1
+!s100 2T3iW@V58<]G2k4h_;l080
+R1
+Imz]XXORUh:CYMOk7E5e@[0
+R2
+w1623324837
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/5_bits_mux_RF.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/5_bits_mux_RF.v
+!i122 740
+L0 1 15
+R3
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/5_bits_mux_RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/5_bits_mux_RF.v|
+!i113 1
+R6
+R7
+nmux5_bits_@r@f
+vmux_Control
+Z19 !s110 1623602916
+!i10b 1
+!s100 nF^RP8gAalZXiDT76Lkle0
+R1
+I^42W@@CidO^PBJaaM4d=J1
+R2
+w1623564531
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_Control.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_Control.v
+!i122 754
+R15
+R3
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_Control.v|
+!i113 1
+R6
+R7
+nmux_@control
+vmux_ForwardA
+R19
+!i10b 1
+!s100 h;2SKE=b7a;3iF<QgY^nW0
+R1
+IX;HADE`<ei`mJW_6ilVCl2
+R2
+w1623523077
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_ForwardA.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_ForwardA.v
+!i122 755
+R17
+R3
+R4
+r1
+!s85 0
+31
+Z20 !s108 1623602916.000000
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_ForwardA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_ForwardA.v|
+!i113 1
+R6
+R7
+nmux_@forward@a
+vmux_ForwardB
+R19
+!i10b 1
+!s100 egKaS6S5@YL2aag3Vd^Ea0
+R1
+IX@nXS?alAH`0IZPaXiaRz2
+R2
+w1623523151
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_ForwardB.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_ForwardB.v
+!i122 756
+R17
+R3
+R4
+r1
+!s85 0
+31
+R20
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_ForwardB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/mux_ForwardB.v|
+!i113 1
+R6
+R7
+nmux_@forward@b
+vRF
+R16
+!i10b 1
+!s100 YIH<bYIYcf7BhSF96>6FO0
+R1
+I928BkAcTXmTFfXI73S9H]1
+R2
+w1623521786
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/RF.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/RF.v
+!i122 738
+L0 35 22
+R3
+R4
+r1
+!s85 0
+31
+R11
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/RF.v|
+!i113 1
+R6
+R7
+n@r@f
+vtb_FinalCPU
+R16
+!i10b 1
+!s100 L<L?YfI?8[N@U8]3S3[Cz1
+R1
+IlQ`gOjN<OP59NSkgKoVYY3
+R2
+w1623585383
+8D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/tb_FinalCPU.v
+FD:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/tb_FinalCPU.v
+!i122 739
+L0 56 103
+R3
+R4
+r1
+!s85 0
+31
+R18
+!s107 D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/tb_FinalCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NTUST/Junior/2nd Semester/Computer Organization/Homework/PA3/PA3/Part 3/tb_FinalCPU.v|
+!i113 1
+R6
+R7
+ntb_@final@c@p@u
